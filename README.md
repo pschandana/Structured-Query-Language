@@ -10,6 +10,17 @@ For a student to improve his performance he has to score more than the previous 
 | TestId | INT  |
 | Marks  | INT  |
 
+## Table: Tests
+
+| TestId | Marks |
+| ------ | ----- |
+| 1      | 50    |
+| 2      | 55    |
+| 3      | 53    |
+| 4      | 60    |
+| 5      | 58    |
+| 6      | 65    |
+
 ## Query Result
  | TestId |
 | ------ |
