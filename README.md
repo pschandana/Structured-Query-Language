@@ -10,4 +10,10 @@ For a student to improve his performance he has to score more than the previous 
 | TestId | INT  |
 | Marks  | INT  |
 
+## Query Result
+ | TestId |
+| ------ |
+| 2      |
+| 4      |
+| 6      |
 
